@@ -1,3 +1,5 @@
 export function testandoImport() {
-    return rose = "ativo"
+    var rose = "ativo"
+    return console.log(rose)
+    
   }
